@@ -1,0 +1,7 @@
+{
+  "iron_ingot": {
+    "input": [ "iron_ore", 3 ],
+    "output": [ "iron_ingot", 1 ],
+    "time": 2.0
+  }
+}
